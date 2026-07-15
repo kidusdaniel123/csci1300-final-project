@@ -1,0 +1,5 @@
+Wolf,40,8
+Goblin,50,10
+Wild Boar,45,9
+Bandit,60,12
+Bear,70,15
