@@ -1,0 +1,4 @@
+Green Slime,30,6
+Cave Bat,25,7
+Rock Crab,40,8
+Shadow Brute,55,10
